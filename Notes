@@ -1,0 +1,13 @@
+# - h1 heading
+* - italic
+** - bold
+~~~ - for commands
+unorder list
+* Item1
+* Item1
+
+order list
+1) Item1
+2) Item1
+
+![Alt Text](Image Path)
